@@ -15,12 +15,7 @@ export default function Home() {
         className="mx-auto bg-white p-3 rounded rounded-3 shadow-sm"
       >
         {/* PostOwner Example*/}
-        <PostOwner
-          name="Atipat Daowraeng 640610674"
-          text="Quiz ง่ายจังเลยขอยากกว่านี้ได้ไหมครับ #261207"
-          like="786"
-          userImagePath="/profileImages/myprofile_n.jpg"
-        />
+        <PostOwner />
         {/* <div className="vstack gap-3">
           <div className="d-flex align-items-center gap-3">
             <img
